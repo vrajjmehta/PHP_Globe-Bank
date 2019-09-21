@@ -1,12 +1,7 @@
-<!doctype html>
+<?php require_once('../../private/initialize.php'); ?>
 
-<html lang="en">
-  <head>
-    <title></title>
-    <meta charset="utf-8">
-  </head>
-
-  <body>
-
-  </body>
-</html>
+<?php include('../../private/shared/staff_header.php'); ?> 
+<div id="content">
+</div>
+    
+<?php include('../../private/shared/staff_footer.php'); ?> 

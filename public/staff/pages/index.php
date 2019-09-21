@@ -2,7 +2,7 @@
 
 <html lang="en">
   <head>
-    <title>Globe bank</title>
+    <title></title>
     <meta charset="utf-8">
   </head>
 
